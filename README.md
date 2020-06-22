@@ -1,2 +1,6 @@
-# AI-based-Automated-Ticket-Resolution-Recommendation-System
+# AI-based Automated Ticket Resolution Recommendation System
 An open source python-based framework for generating resolution recommendations for Ticket Support Systems
+
+Nowadays, customer support systems are one of the key factors in maintaining any big company’s reputation and success. Companies invest huge amounts of money in training support agents and deploying customer care services for their products and services. Support agents are responsible for handling different customer queries and implementing required actions to solve a particular issue or problem raised by the service/product user. 
+In a bigger picture, customer support systems could receive a large amount of ticket/issue raised depending upon the number of users and services being offered. This research is focused towards the development of an end to end solution using deep learning techniques in order to suggest customer support agents about possible fixes and actions against a newly raised ticket. 
+Apart from that, we have also proposed a new evaluation criterion for our system or any other multi-sequence prediction use case. Different experiments are being carried out on real work ticketing dataset and we observed that our deep learning-based techniques outperformed other methods can also be used in production/industry for solution recommendation/suggestion.
