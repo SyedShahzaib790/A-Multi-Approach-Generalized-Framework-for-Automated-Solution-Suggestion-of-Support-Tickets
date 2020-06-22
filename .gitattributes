@@ -1,2 +1,5 @@
+custom_models/fasttext_cbow.bin filter=lfs diff=lfs merge=lfs -text
+pretrained_models/infersent_model.pkl filter=lfs diff=lfs merge=lfs -text
+custom_models/fasttext_skipgram.bin filter=lfs diff=lfs merge=lfs -text
 *.pkl filter=lfs diff=lfs merge=lfs -text
 *.bin filter=lfs diff=lfs merge=lfs -text
