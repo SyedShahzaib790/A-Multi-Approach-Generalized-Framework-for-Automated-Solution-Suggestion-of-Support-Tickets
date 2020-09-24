@@ -18,3 +18,8 @@ Pretrained Models: https://github.com/SyedShahzaib790/A-Multi-Approach-Generaliz
 
 ### End to End Model Model
 ![End-to-End Approach](https://raw.githubusercontent.com/SyedShahzaib790/A-Multi-Approach-Generalized-Framework-for-Automated-Solution-Suggestion-of-Support-Tickets/master/Algo2.png)
+
+## Performance Evaluation of Similarity Search Approach
+![Performance of SS](https://raw.githubusercontent.com/SyedShahzaib790/A-Multi-Approach-Generalized-Framework-for-Automated-Solution-Suggestion-of-Support-Tickets/master/Similarity-Search%20Performance%20Evaluation.png)
+
+
