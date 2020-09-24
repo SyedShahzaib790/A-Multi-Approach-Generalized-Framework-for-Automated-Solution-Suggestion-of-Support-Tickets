@@ -20,6 +20,7 @@ Pretrained Models: https://github.com/SyedShahzaib790/A-Multi-Approach-Generaliz
 ![End-to-End Approach](https://raw.githubusercontent.com/SyedShahzaib790/A-Multi-Approach-Generalized-Framework-for-Automated-Solution-Suggestion-of-Support-Tickets/master/Algo2.png)
 
 ## Performance Evaluation of Similarity Search Approach
+(A: embeddings average F1-score performance, B: embeddings average precision performance, C: embeddings average recall performance)
 ![Performance of SS](https://raw.githubusercontent.com/SyedShahzaib790/A-Multi-Approach-Generalized-Framework-for-Automated-Solution-Suggestion-of-Support-Tickets/master/Similarity-Search%20Performance%20Evaluation.png)
 
 
