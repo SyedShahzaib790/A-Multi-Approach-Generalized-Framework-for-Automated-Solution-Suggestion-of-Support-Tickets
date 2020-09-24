@@ -17,4 +17,4 @@ Pretrained Models: https://github.com/SyedShahzaib790/A-Multi-Approach-Generaliz
 ![Similarity Search Approach](https://raw.githubusercontent.com/SyedShahzaib790/A-Multi-Approach-Generalized-Framework-for-Automated-Solution-Suggestion-of-Support-Tickets/master/Algo1.png)
 
 ### End to End Model Model
-![End-to-End Approach] (https://raw.githubusercontent.com/SyedShahzaib790/A-Multi-Approach-Generalized-Framework-for-Automated-Solution-Suggestion-of-Support-Tickets/master/Algo2.png)
+![End-to-End Approach](https://raw.githubusercontent.com/SyedShahzaib790/A-Multi-Approach-Generalized-Framework-for-Automated-Solution-Suggestion-of-Support-Tickets/master/Algo2.png)
