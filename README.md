@@ -9,3 +9,4 @@ Custom Models: https://github.com/SyedShahzaib790/A-Multi-Approach-Generalized-F
 Pretrained Models: https://github.com/SyedShahzaib790/A-Multi-Approach-Generalized-Framework-for-Automated-Solution-Suggestion-of-Support-Tickets/tree/master/pretrained_models
 
 ## Overall Framework Architecture
+![Framework Architecture](Framework Architecure_2 (1).jpg)
