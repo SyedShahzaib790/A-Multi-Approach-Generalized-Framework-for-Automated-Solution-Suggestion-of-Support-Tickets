@@ -191,7 +191,7 @@ traitlets==4.3.3
 transaction==3.0.0
 transformers==2.10.0
 Unidecode==1.1.1
-urllib3==1.25.9
+urllib3==1.26.5
 wasabi==0.6.0
 wcwidth==0.1.9
 webencodings==0.5.1
